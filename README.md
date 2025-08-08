@@ -49,11 +49,7 @@ This repository demonstrates advanced clustering analysis using custom and gamin
 - Preprocess and scale features using the included scaler.
 - Train clustering models and visualize results.
 - Save and load models for future inference.
-
-## Example Visualization
-
-![Cluster Plot Example](https://user-images.githubusercontent.com/your-username/your-repo/cluster-plot-example.png)
-
+- 
 ## Results
 
 - Discover distinct clusters in both custom and gaming datasets.
