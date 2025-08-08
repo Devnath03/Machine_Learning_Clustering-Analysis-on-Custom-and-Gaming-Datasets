@@ -1,7 +1,5 @@
 # Machine Learning Clustering Analysis on Custom and Gaming Datasets
 
-![Clustering Visualization](https://user-images.githubusercontent.com/your-username/your-repo/cluster-visualization.png)
-
 ## Overview
 
 This repository demonstrates advanced clustering analysis using custom and gaming datasets. The project covers data preprocessing, model training, evaluation, and visualization to uncover hidden patterns and groupings within the data.
